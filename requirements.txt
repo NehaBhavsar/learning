@@ -3,3 +3,5 @@ fastapi[standard]
 langchain-google-genai
 langchain
 langchain-google-vertexai
+fastapi
+fastapi-cli
